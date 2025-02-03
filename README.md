@@ -8,7 +8,7 @@ ARCHITECTURAL REQUIREMENT :
 Intel 32-bit processor or higher
 
 USER INTERFACE :
-Command line interface and GUI.
+Command line interface.
 
 TECHNOLOGY USED :
 Java programming
